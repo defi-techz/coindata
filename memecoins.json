@@ -2,5 +2,5 @@
   { "id": "pepe", "name": "PEPE", "coinGeckoId": "pepe", "dexScreenerPairId": "0xA43fe16908251ee70EF74718545e4FE6C5cCEc9f",  "chainId": "ethereum" },
   { "id": "dogecoin", "name": "Doge", "coinGeckoId": "dogecoin", "dexScreenerPairId": "0xfCd13EA0B906f2f87229650b8D93A51B2e839EBD",   "chainId": "ethereum" },
   { "id": "shiba-inu", "name": "Shiba Inu", "coinGeckoId": "shiba-inu", "dexScreenerPairId": "0xcf6daab95c476106eca715d48de4b13287ffdeaa",   "chainId": "ethereum" },
-    { "id": "dogwifhat", "name": "DogwifHat", "coinGeckoId": "dogwifhat", "dexScreenerPairId": "D6NdKrKNQPmRZCCnG1GqXtF7MMoHB7qR6GU5TkG59Qz1",   "chainId": "solana" }
+    { "id": "dogwifhat", "name": "DogwifHat", "coinGeckoId": "dogwifcoin", "dexScreenerPairId": "D6NdKrKNQPmRZCCnG1GqXtF7MMoHB7qR6GU5TkG59Qz1",   "chainId": "solana" }
 ]
