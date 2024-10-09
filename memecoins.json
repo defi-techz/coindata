@@ -1,8 +1,8 @@
 [
-  { "id": "pepe", "contract":"0x6982508145454Ce325dDbE47a25d4ec3d2311933", "name": "PEPE", "coinGeckoId": "pepe", "dexScreenerPairId": "0xA43fe16908251ee70EF74718545e4FE6C5cCEc9f",  "chainId": "ethereum" },
-    { "id": "eth", "contract":"0x0000000000000000000000000000000000000000", "name": "ETH", "coinGeckoId": "ethereum", "dexScreenerPairId": "0x23421c66dcde609ea1f847e44d5523552f63ef4a",  "chainId": "ethereum" },
-      { "id": "sol", "contract":"0x0000000000000000000000000000000000000001", "name": "Solana", "coinGeckoId": "solana", "dexScreenerPairId": "Czfq3xZZDmsdGdUyrNLtRhGc47cXcZtLG4crryfu44zE",   "chainId": "solana" },
-  { "id": "dogecoin", "name": "Doge", "coinGeckoId": "dogecoin", "dexScreenerPairId": "0xfCd13EA0B906f2f87229650b8D93A51B2e839EBD",   "chainId": "ethereum" },
-  { "id": "shiba-inu", "name": "Shiba Inu", "coinGeckoId": "shiba-inu", "dexScreenerPairId": "0xcf6daab95c476106eca715d48de4b13287ffdeaa",   "chainId": "ethereum" },
-    { "id": "dogwifcoin", "name": "DogwifHat", "coinGeckoId": "dogwifcoin", "dexScreenerPairId": "D6NdKrKNQPmRZCCnG1GqXtF7MMoHB7qR6GU5TkG59Qz1",   "chainId": "solana" }
+  { "id": "pepe", "contract": "0x6982508145454Ce325dDbE47a25d4ec3d2311933", "name": "PEPE", "coinGeckoId": "pepe", "dexScreenerPairId": "0xA43fe16908251ee70EF74718545e4FE6C5cCEc9f", "chainId": "ethereum" },
+  { "id": "eth", "contract": "0x0000000000000000000000000000000000000000", "name": "ETH", "coinGeckoId": "ethereum", "dexScreenerPairId": "0x23421c66dcde609ea1f847e44d5523552f63ef4a", "chainId": "ethereum" },
+  { "id": "sol", "contract": "0x0000000000000000000000000000000000000001", "name": "Solana", "coinGeckoId": "solana", "dexScreenerPairId": "Czfq3xZZDmsdGdUyrNLtRhGc47cXcZtLG4crryfu44zE", "chainId": "solana" },
+  { "id": "dogecoin", "name": "Doge", "coinGeckoId": "dogecoin", "dexScreenerPairId": "0xfCd13EA0B906f2f87229650b8D93A51B2e839EBD", "chainId": "ethereum" },
+  { "id": "shiba-inu", "name": "Shiba Inu", "coinGeckoId": "shiba-inu", "dexScreenerPairId": "0xcf6daab95c476106eca715d48de4b13287ffdeaa", "chainId": "ethereum" },
+  { "id": "dogwifcoin", "name": "DogwifHat", "coinGeckoId": "dogwifcoin", "dexScreenerPairId": "D6NdKrKNQPmRZCCnG1GqXtF7MMoHB7qR6GU5TkG59Qz1", "chainId": "solana" }
 ]
