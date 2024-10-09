@@ -1,7 +1,7 @@
 [
-  { "id": "pepe", "name": "PEPE", "coinGeckoId": "pepe", "dexScreenerPairId": "0xA43fe16908251ee70EF74718545e4FE6C5cCEc9f", "chainId": "ethereum" },
    { "id": "eth", "contract": "0x0000000000000000000000000000000000000000", "name": "ETH", "coinGeckoId": "ethereum", "dexScreenerPairId": "HktfL7iwGKT5QHjywQkcDnZXScoh811k7akrMZJkCcEF", "chainId": "solana" },
     { "id": "sol", "contract": "0x0000000000000000000000000000000000000001", "name": "Solana", "coinGeckoId": "solana", "dexScreenerPairId": "0x127452F3f9cDc0389b0Bf59ce6131aA3Bd763598", "chainId": "ethereum" },
+   { "id": "pepe", "name": "PEPE", "coinGeckoId": "pepe", "dexScreenerPairId": "0xA43fe16908251ee70EF74718545e4FE6C5cCEc9f", "chainId": "ethereum" },
   { "id": "dogecoin", "name": "Doge", "coinGeckoId": "dogecoin", "dexScreenerPairId": "0xfCd13EA0B906f2f87229650b8D93A51B2e839EBD", "chainId": "ethereum" },
   { "id": "shiba-inu", "name": "Shiba Inu", "coinGeckoId": "shiba-inu", "dexScreenerPairId": "0xcf6daab95c476106eca715d48de4b13287ffdeaa", "chainId": "ethereum" },
   { "id": "dogwifcoin", "name": "DogwifHat", "coinGeckoId": "dogwifcoin", "dexScreenerPairId": "D6NdKrKNQPmRZCCnG1GqXtF7MMoHB7qR6GU5TkG59Qz1", "chainId": "solana" }
