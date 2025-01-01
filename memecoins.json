@@ -59,5 +59,4 @@
         { "id": "neural", "image":"https://assets.coingecko.com/coins/images/36341/standard/blackpfp.png?1733474630", "name": "NEURAL", "contract": "0x32B053F2CBA79F80ada5078cb6b305da92BDe6e1", "coinGeckoId": "neuralai", "dexScreenerPairId": "0x1112956589a2BEa1B038732db4eA6B0c416ef130", "chainId": "ethereum", "rewards":"false", "fullname":"NEURALAI", "category":"AI", "description": "NeuralAI leverages generative AI to make textual descriptions into detailed 3D models, reducing costs and complexity"  }
 
 
-
 ]
