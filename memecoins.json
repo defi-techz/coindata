@@ -58,7 +58,12 @@
         { "id": "spore", "image":"https://assets.coingecko.com/coins/images/53063/standard/spore_avatar-logo.png?1735176959", "name": "SPORE", "contract": "8bdhP1UQMevciC9oJ7NrvgDfoW8XPXPfbkkm6vKtMS7N", "coinGeckoId": "spore-2", "dexScreenerPairId": "4sZerPmdcjzQCpSD5raAf4LRaR7S4sFFFx7vMvhiJ9E8", "chainId": "solana", "rewards":"false", "fullname":"Spore", "category":"New", "description": "Spore.fun is an innovative, AI-driven experiment in decentralized evolution, where autonomous agents compete, survive, and reproduce"  },
         { "id": "neural", "image":"https://assets.coingecko.com/coins/images/36341/standard/blackpfp.png?1733474630", "name": "NEURAL", "contract": "0x32B053F2CBA79F80ada5078cb6b305da92BDe6e1", "coinGeckoId": "neuralai", "dexScreenerPairId": "0x1112956589a2BEa1B038732db4eA6B0c416ef130", "chainId": "ethereum", "rewards":"false", "fullname":"NEURALAI", "category":"AI", "description": "NeuralAI leverages generative AI to make textual descriptions into detailed 3D models, reducing costs and complexity"  },
         { "id": "shiro", "image":"https://assets.coingecko.com/coins/images/52406/standard/Shiro_Neko.png?1733453572", "name": "SHIRO", "contract": "0xb0AC2b5a73da0e67A8e5489Ba922B3f8d582e058", "coinGeckoId": "shiro-neko-2", "dexScreenerPairId": "0xd293D05E83035a757D510E2A5ebFe705C4f05b1f", "chainId": "ethereum", "rewards":"false", "fullname":"Shiro Neko", "category":"Cat", "description": "Shiro Neko ($SHIRO) is a memecoin on the Ethereum blockchain"  },
-        { "id": "gme", "image":"https://assets.coingecko.com/coins/images/37895/standard/_GME_New_Logo.png?1733640757", "name": "GME", "contract": "0xc56C7A0eAA804f854B536A5F3D5f49D2EC4B12b8", "coinGeckoId": "game-stop", "dexScreenerPairId": "0x2aEEe741fa1e21120a21E57Db9ee545428E683C9", "chainId": "ethereum", "rewards":"false", "fullname":"GameStop", "category":"Cat", "description": "Join the Movement #FliptheStock"  }
+        { "id": "gme", "image":"https://assets.coingecko.com/coins/images/37895/standard/_GME_New_Logo.png?1733640757", "name": "GME", "contract": "0xc56C7A0eAA804f854B536A5F3D5f49D2EC4B12b8", "coinGeckoId": "game-stop", "dexScreenerPairId": "0x2aEEe741fa1e21120a21E57Db9ee545428E683C9", "chainId": "ethereum", "rewards":"false", "fullname":"GameStop", "category":"Cat", "description": "Join the Movement #FliptheStock"  },
+        { "id": "trump", "image":"https://assets.coingecko.com/coins/images/37895/standard/_GME_New_Logo.png?1733640757", "name": "TRUMP", "contract": "0x576e2BeD8F7b46D34016198911Cdf9886f78bea7", "coinGeckoId": "maga", "dexScreenerPairId": "0xE4b8583cCB95b25737C016ac88E539D0605949e8", "chainId": "ethereum", "rewards":"false", "fullname":"MAGA", "category":"", "description": "MAGA Movement on the Blockchain"  }
+
+
+
+
 
 
 ]
